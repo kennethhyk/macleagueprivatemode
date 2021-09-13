@@ -1,4 +1,4 @@
-# macleagueprivatemode
+# Appear as Offline in League of Legends
 Let you appear as offline ion League of Legends, aka private mode
 
 This script only works for mac. 
