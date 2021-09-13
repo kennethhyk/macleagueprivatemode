@@ -2,6 +2,7 @@
 Let you appear as offline ion League of Legends, aka private mode
 
 This script only works for mac. 
+- 2 modes: Block/Unblock. run the script to select mode
 - Only tested on macOS Big Sur 11.5.2
 - Only works for NA servers, if you want it to work with other regions just change the chat server URL in the script
 
